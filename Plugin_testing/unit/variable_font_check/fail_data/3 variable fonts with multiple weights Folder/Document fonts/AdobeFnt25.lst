@@ -1,0 +1,102 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt23.lst
+FileLength:1976
+FileModTime:720554404
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt24.lst
+FileLength:2864
+FileModTime:764117386
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt25.lst
+FileLength:2509
+FileModTime:800394239
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EduTASBeginner-Regular
+FamilyName:Edu TAS Beginner
+StyleName:Regular
+MenuName:Edu TAS Beginner
+FamilyPrefix:EduTASBeginner
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Edu TAS Beginner Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/EduTASBeginner-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:33800
+FileModTime:700076664
+NameArray:0,Win,1,Edu TAS Beginner
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlaypenSans-Regular
+FamilyName:Playpen Sans
+StyleName:Regular
+MenuName:Playpen Sans
+FamilyPrefix:PlaypenSans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Playpen Sans Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/PlaypenSans-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:515824
+FileModTime:719426166
+NameArray:0,Win,1,Playpen Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Regular
+FamilyName:Roboto Mono
+StyleName:Regular
+MenuName:Roboto Mono
+FamilyPrefix:RobotoMono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Roboto Mono Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/RobotoMono-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:184172
+FileModTime:716423238
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+

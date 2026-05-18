@@ -1,0 +1,75 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/pasted_graphics_check/fail_data/Tietoevry_General News_Template Folder2/Document fonts/AdobeFnt23.lst
+FileLength:2110
+FileModTime:668442686
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/pasted_graphics_check/fail_data/Tietoevry_General News_Template Folder2/Document fonts/AdobeFnt24.lst
+FileLength:2331
+FileModTime:764117386
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TietoevrySans1-Light
+FamilyName:Tietoevry Sans 1
+StyleName:Light
+MenuName:Tietoevry Sans 1 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Tietoevry Sans 1 Light
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/pasted_graphics_check/fail_data/Tietoevry_General News_Template Folder2/Document fonts/TietoevrySans1-Light_3811286730.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:43212
+FileModTime:663758874
+NameArray:0,Mac,4,Tietoevry Sans 1 Light
+NameArray:0,Win,1,Tietoevry Sans 1 Light
+NameArray:0,Win,16,Tietoevry Sans 1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TietoevrySans1-Regular
+FamilyName:Tietoevry Sans 1
+StyleName:Regular
+MenuName:Tietoevry Sans 1
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Tietoevry Sans 1 Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/pasted_graphics_check/fail_data/Tietoevry_General News_Template Folder2/Document fonts/TietoevrySans1-Regular_4247971750.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:43436
+FileModTime:663758874
+NameArray:0,Mac,4,Tietoevry Sans 1 Regular
+NameArray:0,Win,1,Tietoevry Sans 1
+NameArray:0,Win,16,Tietoevry Sans 1
+%EndFont
+

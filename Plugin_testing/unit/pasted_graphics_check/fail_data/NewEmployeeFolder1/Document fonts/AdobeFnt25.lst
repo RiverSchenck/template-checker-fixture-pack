@@ -1,0 +1,83 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/pasted_graphics_check/fail_data/NewEmployeeFolder1/Document fonts/AdobeFnt23.lst
+FileLength:1407
+FileModTime:685455104
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/pasted_graphics_check/fail_data/NewEmployeeFolder1/Document fonts/AdobeFnt24.lst
+FileLength:2215
+FileModTime:764615137
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/pasted_graphics_check/fail_data/NewEmployeeFolder1/Document fonts/AdobeFnt25.lst
+FileLength:1931
+FileModTime:800394610
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LocatorDisplay-Black
+FamilyName:Locator Display
+StyleName:Black
+MenuName:Locator Display Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Locator Display Black
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/pasted_graphics_check/fail_data/NewEmployeeFolder1/Document fonts/LocatorDisplay-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:33304
+FileModTime:684430916
+NameArray:0,Mac,4,Locator Display Black
+NameArray:0,Win,1,Locator Display Black
+NameArray:0,Win,16,Locator Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LocatorDisplay-Light
+FamilyName:Locator Display
+StyleName:Light
+MenuName:Locator Display Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Locator Display Light
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/pasted_graphics_check/fail_data/NewEmployeeFolder1/Document fonts/LocatorDisplay-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:32964
+FileModTime:684430918
+NameArray:0,Mac,4,Locator Display Light
+NameArray:0,Win,1,Locator Display Light
+NameArray:0,Win,16,Locator Display
+%EndFont
+

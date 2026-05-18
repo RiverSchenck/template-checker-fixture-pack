@@ -101,7 +101,7 @@ The fixture folder picker also needs local file system permission under `require
 
 ## 5. Fixture Layout
 
-When prompted, choose the **Plugin Testing** folder that River provided. That folder should directly contain `unit/`.
+When prompted, choose the **`Plugin_testing`** folder (parent of `unit/`). If you received the fixture-pack repository, use its `Plugin_testing/` directory at the repo root.
 
 Each suite expects:
 

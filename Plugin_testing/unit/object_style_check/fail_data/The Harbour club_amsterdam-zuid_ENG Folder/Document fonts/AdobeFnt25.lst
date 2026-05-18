@@ -1,0 +1,52 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/object_style_check/fail_data/The Harbour club_amsterdam-zuid_ENG Folder/Document fonts/AdobeFnt23.lst
+FileLength:804
+FileModTime:721589790
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/object_style_check/fail_data/The Harbour club_amsterdam-zuid_ENG Folder/Document fonts/AdobeFnt24.lst
+FileLength:1392
+FileModTime:762037739
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/object_style_check/fail_data/The Harbour club_amsterdam-zuid_ENG Folder/Document fonts/AdobeFnt25.lst
+FileLength:1179
+FileModTime:800387295
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BlairITCTTBold
+FamilyName:BlairITC TT
+StyleName:Bold
+MenuName:BlairITC TT
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:BlairITC TT Bold
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/object_style_check/fail_data/The Harbour club_amsterdam-zuid_ENG Folder/Document fonts/BlairITCTTBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:54792
+FileModTime:704967960
+NameArray:0,Mac,4,BlairITC TT Bold
+NameArray:0,Win,1,BlairITC TT
+%EndFont
+

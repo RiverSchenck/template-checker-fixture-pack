@@ -1,0 +1,55 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt23.lst
+FileLength:862
+FileModTime:718310283
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt24.lst
+FileLength:1443
+FileModTime:762120448
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt25.lst
+FileLength:1501
+FileModTime:800467457
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:712686018
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

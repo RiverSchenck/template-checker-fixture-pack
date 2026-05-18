@@ -1,0 +1,53 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/par_check/fail_data/Variable Font Example/Document fonts/AdobeFnt23.lst
+FileLength:839
+FileModTime:717542837
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/par_check/fail_data/Variable Font Example/Document fonts/AdobeFnt24.lst
+FileLength:1358
+FileModTime:760455708
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/par_check/fail_data/Variable Font Example/Document fonts/AdobeFnt25.lst
+FileLength:1145
+FileModTime:800386850
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PublicSans-Thin
+FamilyName:Public Sans
+StyleName:Thin
+MenuName:Public Sans Thin
+FamilyPrefix:PublicSansRoman
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Public Sans Thin
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/par_check/fail_data/Variable Font Example/Document fonts/PublicSans-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:101592
+FileModTime:700957020
+NameArray:0,Win,1,Public Sans Thin
+NameArray:0,Win,16,Public Sans
+%EndFont
+

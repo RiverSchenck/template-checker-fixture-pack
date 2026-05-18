@@ -1,0 +1,52 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Carpeta TEMPLATE_1SLOGAN_OFFLINE_380260MM/Document fonts/AdobeFnt23.lst
+FileLength:1000
+FileModTime:718720480
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Carpeta TEMPLATE_1SLOGAN_OFFLINE_380260MM/Document fonts/AdobeFnt24.lst
+FileLength:1382
+FileModTime:764117386
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Carpeta TEMPLATE_1SLOGAN_OFFLINE_380260MM/Document fonts/AdobeFnt25.lst
+FileLength:1169
+FileModTime:800394743
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Medium
+FamilyName:Poppins
+StyleName:Medium
+MenuName:Poppins Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Poppins Medium
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Carpeta TEMPLATE_1SLOGAN_OFFLINE_380260MM/Document fonts/Poppins-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:156520
+FileModTime:685517230
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+

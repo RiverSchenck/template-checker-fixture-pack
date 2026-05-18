@@ -1,0 +1,104 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt23.lst
+FileLength:2217
+FileModTime:719869695
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt24.lst
+FileLength:3025
+FileModTime:762212179
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EmojiOneColor
+FamilyName:EmojiOne
+StyleName:Color
+MenuName:EmojiOne
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:EmojiOne
+WritingScript:Emoji
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/EmojiOneColor.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:yes
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:4232712
+FileModTime:718918138
+NameArray:0,Mac,4,EmojiOne
+NameArray:0,Win,1,EmojiOne
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Lt
+FamilyName:Helvetica Neue LT Pro
+StyleName:45 Light
+MenuName:HelveticaNeueLT Pro 45 Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 45 Light
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/HelveticaNeueLTPro-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:47684
+FileModTime:229602882
+NameArray:0,Mac,18,HelveticaNeueLT Pro 45 Lt
+NameArray:0,Mac,4,Helvetica Neue LT Pro 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Pro 45 Lt
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTPro-Md
+FamilyName:Helvetica Neue LT Pro
+StyleName:65 Medium
+MenuName:HelveticaNeueLT Pro 65 Md
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Pro 65 Medium
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/HelveticaNeueLTPro-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:48716
+FileModTime:229602882
+NameArray:0,Mac,18,HelveticaNeueLT Pro 65 Md
+NameArray:0,Mac,4,Helvetica Neue LT Pro 65 Medium
+NameArray:0,Win,1,HelveticaNeueLT Pro 65 Md
+NameArray:0,Win,16,Helvetica Neue LT Pro
+%EndFont
+

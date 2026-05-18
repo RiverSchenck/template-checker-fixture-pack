@@ -1,0 +1,120 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/4 var fonts Folder/Document fonts/AdobeFnt23.lst
+FileLength:2313
+FileModTime:720554249
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/4 var fonts Folder/Document fonts/AdobeFnt24.lst
+FileLength:2957
+FileModTime:764110642
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aleo-Regular
+FamilyName:Aleo
+StyleName:Regular
+MenuName:Aleo
+FamilyPrefix:Aleo
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Aleo Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/4 var fonts Folder/Document fonts/Aleo-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:146636
+FileModTime:714678684
+NameArray:0,Win,1,Aleo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Alexandria-Regular
+FamilyName:Alexandria
+StyleName:Regular
+MenuName:Alexandria
+FamilyPrefix:Alexandria
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Alexandria Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/4 var fonts Folder/Document fonts/Alexandria-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:325564
+FileModTime:701117266
+NameArray:0,Win,1,Alexandria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cabin-Regular
+FamilyName:Cabin
+StyleName:Regular
+MenuName:Cabin
+FamilyPrefix:Cabin
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cabin Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/4 var fonts Folder/Document fonts/Cabin-VariableFont_wdth,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:153656
+FileModTime:716423238
+NameArray:0,Win,1,Cabin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Varta-Light
+FamilyName:Varta
+StyleName:Light
+MenuName:Varta Light
+FamilyPrefix:Varta
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Varta Light
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/4 var fonts Folder/Document fonts/Varta-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:108608
+FileModTime:701117266
+NameArray:0,Win,1,Varta Light
+NameArray:0,Win,16,Varta
+%EndFont
+
