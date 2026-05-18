@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Large image used/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/large_image_check/fail_data/Large image used/Document fonts/AdobeFnt23.lst
 FileLength:1861
 FileModTime:717697147
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:717697147
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Large image used/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/large_image_check/fail_data/Large image used/Document fonts/AdobeFnt24.lst
 FileLength:2678
 FileModTime:764108911
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:764108911
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Large image used/Document fonts/AdobeFnt25.lst
-FileLength:2323
-FileModTime:800394745
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/large_image_check/fail_data/Large image used/Document fonts/AdobeFnt25.lst
+FileLength:2564
+FileModTime:800467487
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:FuturaEF-DemiBold
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Large image used/Document fonts/FuturaEF-DemiBold.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/large_image_check/fail_data/Large image used/Document fonts/FuturaEF-DemiBold.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -63,7 +63,7 @@ WidthClass:5
 AngleClass:0
 FullName:FuturaEF-Medium
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Large image used/Document fonts/FuturaEF-Medium.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/large_image_check/fail_data/Large image used/Document fonts/FuturaEF-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -88,7 +88,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/large_image_check/fail_data/Large image used/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/large_image_check/fail_data/Large image used/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

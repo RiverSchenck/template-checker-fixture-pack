@@ -13,8 +13,6 @@ Contract tests for InDesign template checkers: `.indd` fixtures, expected issues
 
 This repository includes [`Plugin_testing/`](./Plugin_testing/) (parent of `unit/`). When running tests in InDesign, choose that folder in the fixture picker, or copy `Plugin_testing/` next to your plugin. Layout is described in `partner/PARTNER.md`.
 
-Large linked images use **Git LFS** (`*.tiff`). After clone, run `git lfs pull` if fixtures are missing.
-
 ## Changelog
 
 Releases are tagged `vX.Y.Z` on this repository and match `FIXTURE_PACK_VERSION`.

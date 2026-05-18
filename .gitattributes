@@ -1,3 +1,0 @@
-# Git LFS: large_image_check includes a ~180MB linked TIFF (GitHub file limit is 100MB).
-*.tiff filter=lfs diff=lfs merge=lfs -text
-*.tif filter=lfs diff=lfs merge=lfs -text
