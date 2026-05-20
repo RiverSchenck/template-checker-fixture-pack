@@ -55,7 +55,7 @@ Use these `checkId` values (same set as the comment on `partner/binding.js` in t
 - `transformations-image-frame`
 - `transformations-placed-image`
 - `transformations-text-frame`
-- `transformations-shape` (optional `transformKind` on each issue)
+- `transformations-shape`
 
 ## 3. Add The Test UI
 
