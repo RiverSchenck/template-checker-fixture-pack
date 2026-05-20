@@ -1,16 +1,23 @@
+/**
+ * Template for your plugin’s src/index.jsx (not runnable from this folder).
+ *
+ * Copy the imports and entrypoints.setup block into src/index.jsx.
+ * All import paths below are relative to src/.
+ *
+ * Match three ids to your manifest panel entrypoint:
+ *   manifest entrypoints[].id  ↔  PanelController({ id })  ↔  entrypoints.setup.panels key
+ */
 import React from "react";
 import { entrypoints } from "uxp";
 
-// Example for your plugin's src/index.jsx.
-// Use example.PanelController.jsx (or merge its menuItems handling into yours).
-// Replace MyPanel with your real panel component.
-import { PanelController } from "./example.PanelController.jsx";
-import { MyPanel } from "./panels/MyPanel.jsx";
-
 import { fixtureMenuItems } from "./checker/testing/fixtureMenuItems.js";
 import { runFixtureTestSuite } from "./checker/testing/runFixtureTestSuite.js";
+import { PanelController } from "./controllers/PanelController.jsx";
+import { MyPanel } from "./panels/MyPanel.jsx";
 
-const myPanelController = new PanelController(() => <MyPanel />, {
+const { app } = require("indesign");
+
+const myPanelController = new PanelController(() => <MyPanel app={app} />, {
     id: "myPanel",
     menuItems: fixtureMenuItems
 });
@@ -28,16 +35,8 @@ entrypoints.setup({
         myPanel: myPanelController
     },
     commands: {
-        async runFixtureTests() {
-            const result = await runFixtureTestSuite();
-
-            if (result.ok) {
-                console.log(result.message);
-            } else {
-                console.error(result.message, result.summary);
-            }
-
-            return result;
+        runFixtureTests() {
+            return runFixtureTestSuite();
         }
     }
 });

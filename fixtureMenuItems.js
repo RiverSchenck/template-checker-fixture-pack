@@ -173,12 +173,15 @@ const FIXTURE_SUITE_GROUPS = [
   ],
 ];
 
+/** Flat list of per-suite entries (order matches `FIXTURE_SUITE_GROUPS`). */
+const FIXTURE_SUITE_ENTRIES = FIXTURE_SUITE_GROUPS.flat();
+
 /**
  * Panel flyout menu entries for fixture suites and fixture root helpers.
- * Per-suite items use each rule’s `checkId` as the visible `label`, grouped by category
- * with `"-"` separators (except “All fixture tests” and the fixture-root helpers).
+ * Each entry is `{ id, label, oninvoke }` for the default panel controller.
+ * Per-suite labels use each rule’s `checkId`.
  *
- * @type {({ id: string; label: string; oninvoke: () => void } | "-")[]}
+ * @type {{ id: string; label: string; oninvoke: () => void }[]}
  */
 export const fixtureMenuItems = [
   {
@@ -190,8 +193,7 @@ export const fixtureMenuItems = [
       });
     },
   },
-  ...FIXTURE_SUITE_GROUPS.flatMap((group) => ["-", ...group]),
-  "-",
+  ...FIXTURE_SUITE_ENTRIES,
   {
     id: "chooseFixtureRoot",
     label: "Choose fixture folder (parent of unit/)...",

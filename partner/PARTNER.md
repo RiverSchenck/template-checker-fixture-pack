@@ -59,21 +59,21 @@ Use these `checkId` values (same set as the comment on `partner/binding.js` in t
 
 ## 3. Add The Test UI
 
-Use `partner/examples/example.index.jsx` as the entrypoint example for your `src/index.jsx`.
+Use `partner/examples/example.index.jsx` as a template for **`src/index.jsx`** (import paths are relative to `src/`, not to the `examples/` folder).
 
-It shows three pieces to copy into your existing `entrypoints.setup`:
+Copy the imports and `entrypoints.setup` block into your entrypoint. It shows three pieces to wire up:
 
-- `fixtureMenuItems` for panel flyout actions (grouped by checker category with `"-"` separators)
-- `partner/examples/example.PanelController.jsx` for passing those items to UXP (or merge its logic into your panel controller)
-- `runFixtureTestSuite()` for the `runFixtureTests` command
+- `fixtureMenuItems` — flyout entries (`{ id, label, oninvoke }` only)
+- your plugin’s default `PanelController` (Adobe React starter) — pass `menuItems: fixtureMenuItems` in the constructor
+- `runFixtureTestSuite()` under `commands` as `runFixtureTests`
 
-Pass `fixtureMenuItems` as `menuItems` on the panel object UXP receives from your controller. Add the `runFixtureTests` command under `commands` so InDesign can run the full fixture suite from the plugin command entrypoint.
+Wire it like the example: construct your panel controller with `menuItems: fixtureMenuItems`, then pass that controller instance to `entrypoints.setup` under `panels`. UXP reads `panel.menuItems` from the controller; you do not pass `fixtureMenuItems` directly into `entrypoints.setup`.
 
-### Flyout menu separators
+Add the `runFixtureTests` command under `commands` so InDesign can run the full fixture suite from the plugin command entrypoint.
 
-`fixtureMenuItems` is an array of menu objects and the string `"-"` (category dividers). If you normalize `menuItems` before `entrypoints.setup`, **leave `"-"` as the string** — UXP treats that as a separator. Mapping a separator to `{ label: "-" }` omits `id` and fails at load with `'id' should be defined in menuItem object`.
+### Flyout menu shape
 
-In `invokeMenu`, skip separator entries when resolving handlers (see `example.PanelController.jsx`).
+`fixtureMenuItems` is an array of `{ id, label, oninvoke }` — one per fixture suite, plus “All fixture tests” and fixture-folder helpers. Use the default panel controller unchanged; it maps entries for UXP and calls `oninvoke` from `invokeMenu(id)`.
 
 ## 4. Update Your Manifest
 
@@ -115,5 +115,5 @@ Fail fixtures must produce the expected issues. Pass fixtures should produce no 
 ## Notes
 
 - You normally do not need to edit `fixtureHarness.config.js`, `configs/`, or the runner.
-- `fixtureMenuItems` includes all-suite, per-check suite entries (by category), choose fixture folder, and clear fixture folder actions.
+- `fixtureMenuItems` includes all-suite, per-check suite entries (category order preserved, no flyout separators), choose fixture folder, and clear fixture folder actions.
 - Runtime requirements: InDesign Application and UXP local file system access.
