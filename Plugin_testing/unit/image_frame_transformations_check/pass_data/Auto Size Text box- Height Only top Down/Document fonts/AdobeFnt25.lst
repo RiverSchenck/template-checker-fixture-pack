@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt23.lst
 FileLength:862
 FileModTime:718310283
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:718310283
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt24.lst
 FileLength:1443
 FileModTime:762120448
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:762120448
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt25.lst
-FileLength:1501
-FileModTime:800467457
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/AdobeFnt25.lst
+FileLength:1541
+FileModTime:800478750
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/image_frame_transformations_check/pass_data/Auto Size Text box- Height Only top Down/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

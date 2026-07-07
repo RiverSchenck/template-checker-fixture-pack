@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/AdobeFnt23.lst
 FileLength:822
 FileModTime:718310443
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:718310443
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/AdobeFnt24.lst
 FileLength:1383
 FileModTime:762120447
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:762120447
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/AdobeFnt25.lst
-FileLength:1457
-FileModTime:800480903
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/AdobeFnt25.lst
+FileLength:1437
+FileModTime:800481550
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Text Boxes/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

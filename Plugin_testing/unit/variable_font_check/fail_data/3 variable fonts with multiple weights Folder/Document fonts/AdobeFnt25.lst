@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt23.lst
 FileLength:1976
 FileModTime:720554404
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:720554404
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt24.lst
 FileLength:2864
 FileModTime:764117386
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:764117386
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt25.lst
-FileLength:2509
-FileModTime:800394239
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/AdobeFnt25.lst
+FileLength:2781
+FileModTime:800474948
 %EndFont
 
 %BeginFont
@@ -39,7 +39,7 @@ WidthClass:5
 AngleClass:0
 FullName:Edu TAS Beginner Regular
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/EduTASBeginner-VariableFont_wght.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/EduTASBeginner-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -64,7 +64,7 @@ WidthClass:5
 AngleClass:0
 FullName:Playpen Sans Regular
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/PlaypenSans-VariableFont_wght.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/PlaypenSans-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -89,7 +89,7 @@ WidthClass:5
 AngleClass:0
 FullName:Roboto Mono Regular
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/RobotoMono-VariableFont_wght.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/3 variable fonts with multiple weights Folder/Document fonts/RobotoMono-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no

@@ -11,7 +11,6 @@ import React from "react";
 import { entrypoints } from "uxp";
 
 import { fixtureMenuItems } from "./checker/testing/fixtureMenuItems.js";
-import { runFixtureTestSuite } from "./checker/testing/runFixtureTestSuite.js";
 import { PanelController } from "./controllers/PanelController.jsx";
 import { MyPanel } from "./panels/MyPanel.jsx";
 
@@ -33,10 +32,5 @@ entrypoints.setup({
     },
     panels: {
         myPanel: myPanelController
-    },
-    commands: {
-        runFixtureTests() {
-            return runFixtureTestSuite();
-        }
     }
 });

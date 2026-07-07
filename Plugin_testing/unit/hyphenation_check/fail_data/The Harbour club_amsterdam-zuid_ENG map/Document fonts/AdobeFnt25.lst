@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/AdobeFnt23.lst
 FileLength:3012
 FileModTime:716385431
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:716385431
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/AdobeFnt24.lst
 FileLength:4122
 FileModTime:760031317
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:760031317
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/AdobeFnt25.lst
-FileLength:3889
-FileModTime:800384460
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/AdobeFnt25.lst
+FileLength:4105
+FileModTime:800994756
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:BlairITC TT Bold
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/BlairITCTTBold.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/BlairITCTTBold.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -63,7 +63,7 @@ WidthClass:5
 AngleClass:0
 FullName:BlairMdITC TT Medium
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/BlairMdITCTT-Medium.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/BlairMdITCTT-Medium.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -87,7 +87,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat Regular
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/Montserrat-Regular.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/Montserrat-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -112,7 +112,7 @@ WidthClass:5
 AngleClass:0
 FullName:Stay Dreaming
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/StayDreaming.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/StayDreaming.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -137,7 +137,7 @@ WidthClass:5
 AngleClass:0
 FullName:SwiftSCEF-Regular
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/SwiftSCEF-Regular.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/The Harbour club_amsterdam-zuid_ENG map/Document fonts/SwiftSCEF-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

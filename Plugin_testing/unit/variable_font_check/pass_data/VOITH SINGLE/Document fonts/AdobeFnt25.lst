@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/AdobeFnt23.lst
 FileLength:1670
 FileModTime:718904772
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:718904772
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/AdobeFnt24.lst
 FileLength:2362
 FileModTime:764111885
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:764111885
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/AdobeFnt25.lst
-FileLength:2078
-FileModTime:800394240
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/AdobeFnt25.lst
+FileLength:2452
+FileModTime:800994863
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Pro 45 Light
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/HelveticaNeueLTPro-Lt.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/HelveticaNeueLTPro-Lt.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -67,7 +67,7 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Pro 65 Medium
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/HelveticaNeueLTPro-Md.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/pass_data/VOITH SINGLE/Document fonts/HelveticaNeueLTPro-Md.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

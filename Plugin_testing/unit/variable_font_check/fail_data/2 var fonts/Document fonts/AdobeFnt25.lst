@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt23.lst
 FileLength:2520
 FileModTime:720554178
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:720554178
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt24.lst
 FileLength:3408
 FileModTime:764117386
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:764117386
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt25.lst
-FileLength:2982
-FileModTime:800393860
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt25.lst
+FileLength:3409
+FileModTime:800994861
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:Montserrat SemiBold
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/Montserrat-SemiBold.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/Montserrat-SemiBold.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -64,7 +64,7 @@ WidthClass:5
 AngleClass:0
 FullName:Playfair Display Regular
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/PlayfairDisplay-Regular.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/PlayfairDisplay-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -90,7 +90,7 @@ WidthClass:5
 AngleClass:0
 FullName:Roboto Mono Italic
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/RobotoMono-Italic-VariableFont_wght.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/RobotoMono-Italic-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
@@ -115,7 +115,7 @@ WidthClass:5
 AngleClass:0
 FullName:Roboto Mono Regular
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/RobotoMono-VariableFont_wght.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/variable_font_check/fail_data/2 var fonts/Document fonts/RobotoMono-VariableFont_wght.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no

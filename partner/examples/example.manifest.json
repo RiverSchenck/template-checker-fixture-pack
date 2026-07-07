@@ -36,13 +36,6 @@
         "width": 520,
         "height": 760
       }
-    },
-    {
-      "type": "command",
-      "id": "runFixtureTests",
-      "label": {
-        "default": "Run template fixture tests"
-      }
     }
   ]
 }

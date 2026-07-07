@@ -61,15 +61,12 @@ Use these `checkId` values (same set as the comment on `partner/binding.js` in t
 
 Use `partner/examples/example.index.jsx` as a template for **`src/index.jsx`** (import paths are relative to `src/`, not to the `examples/` folder).
 
-Copy the imports and `entrypoints.setup` block into your entrypoint. It shows three pieces to wire up:
+Copy the imports and `entrypoints.setup` block into your entrypoint. It shows two pieces to wire up:
 
 - `fixtureMenuItems` — flyout entries (`{ id, label, oninvoke }` only)
 - your plugin’s default `PanelController` (Adobe React starter) — pass `menuItems: fixtureMenuItems` in the constructor
-- `runFixtureTestSuite()` under `commands` as `runFixtureTests`
 
 Wire it like the example: construct your panel controller with `menuItems: fixtureMenuItems`, then pass that controller instance to `entrypoints.setup` under `panels`. UXP reads `panel.menuItems` from the controller; you do not pass `fixtureMenuItems` directly into `entrypoints.setup`.
-
-Add the `runFixtureTests` command under `commands` so InDesign can run the full fixture suite from the plugin command entrypoint.
 
 ### Flyout menu shape
 
@@ -77,21 +74,9 @@ Add the `runFixtureTests` command under `commands` so InDesign can run the full 
 
 ## 4. Update Your Manifest
 
-Use `partner/examples/example.manifest.json` as the manifest example. Keep your existing plugin id, name, icons, and panel details, but make sure these pieces are present.
+Use `partner/examples/example.manifest.json` as the manifest example. Keep your existing plugin id, name, icons, and panel entrypoint details.
 
-Add the `runFixtureTests` command to your `entrypoints` array. The `id` must match the command name in `entrypoints.setup`:
-
-```json
-{
-  "type": "command",
-  "id": "runFixtureTests",
-  "label": {
-    "default": "Run template fixture tests"
-  }
-}
-```
-
-The fixture folder picker also needs local file system permission under `requiredPermissions`:
+The fixture folder picker needs local file system permission under `requiredPermissions`:
 
 ```json
 {

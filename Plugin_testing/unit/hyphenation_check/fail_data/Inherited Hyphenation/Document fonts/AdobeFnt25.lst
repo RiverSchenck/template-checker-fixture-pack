@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/AdobeFnt23.lst
 FileLength:804
 FileModTime:719857933
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:719857933
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/AdobeFnt24.lst
 FileLength:1368
 FileModTime:760031316
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:760031316
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/AdobeFnt25.lst
-FileLength:1401
-FileModTime:800384460
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/AdobeFnt25.lst
+FileLength:1509
+FileModTime:800994755
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/hyphenation_check/fail_data/Inherited Hyphenation/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

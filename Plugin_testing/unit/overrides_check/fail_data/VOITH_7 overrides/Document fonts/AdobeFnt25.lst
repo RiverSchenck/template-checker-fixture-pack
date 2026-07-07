@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt23.lst
 FileLength:2217
 FileModTime:719869695
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:719869695
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt24.lst
 FileLength:3025
 FileModTime:762288236
 %EndFont
@@ -20,9 +20,9 @@ FileModTime:762288236
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt25.lst
-FileLength:2670
-FileModTime:800391144
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/AdobeFnt25.lst
+FileLength:2910
+FileModTime:800467432
 %EndFont
 
 %BeginFont
@@ -38,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:EmojiOne
 WritingScript:Emoji
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/EmojiOneColor.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/EmojiOneColor.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -65,7 +65,7 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Pro 45 Light
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/HelveticaNeueLTPro-Lt.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/HelveticaNeueLTPro-Lt.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -94,7 +94,7 @@ WidthClass:5
 AngleClass:0
 FullName:Helvetica Neue LT Pro 65 Medium
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/HelveticaNeueLTPro-Md.otf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/overrides_check/fail_data/VOITH_7 overrides/Document fonts/HelveticaNeueLTPro-Md.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes

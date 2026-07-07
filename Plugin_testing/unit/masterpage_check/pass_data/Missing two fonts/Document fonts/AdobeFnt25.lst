@@ -4,7 +4,7 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/.DS_Store
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/.DS_Store
 FileLength:6148
 FileModTime:718239396
 %EndFont
@@ -12,7 +12,7 @@ FileModTime:718239396
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt23.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt23.lst
 FileLength:1925
 FileModTime:718146988
 %EndFont
@@ -20,7 +20,7 @@ FileModTime:718146988
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt24.lst
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt24.lst
 FileLength:1648
 FileModTime:760455723
 %EndFont
@@ -28,9 +28,9 @@ FileModTime:760455723
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt25.lst
-FileLength:1605
-FileModTime:800467476
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt25.lst
+FileLength:1740
+FileModTime:803415014
 %EndFont
 
 %BeginFont
@@ -46,7 +46,7 @@ WidthClass:5
 AngleClass:0
 FullName:FuturaEF-DemiBold
 WritingScript:Roman
-OutlineFileName:/Users/river.schenck/Desktop/Plugin Testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/FuturaEF-DemiBold.ttf
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/FuturaEF-DemiBold.ttf
 DataFormat:sfntData
 hasSVG:no
 hasSBIX:no
