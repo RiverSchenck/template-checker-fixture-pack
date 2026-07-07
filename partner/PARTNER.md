@@ -12,7 +12,11 @@ Keep the harness imports inside `testing/`. The only file that should import you
 
 ## 2. Wire Your Checker
 
-Start from `partner/binding.example.js`, then update `partner/binding.js`:
+Start from the minimal `partner/binding.js` stub shipped in the fixture pack, and use `partner/examples/binding.example.js` as the reference for patterns and helpers:
+
+1. Import your checker entry point at the top of `partner/binding.js`.
+2. Implement `runChecker` — call your checker with `app` and return its native result.
+3. Implement `normalizeToIssues` — pick one of the documented patterns in `binding.example.js` (`normalizeFlatIssueRows`, `normalizeByCategoryIssues`, or a custom field map) so the harness receives `[{ checkId, type }, …]`.
 
 ```js
 export const partnerHarnessBindings = {
