@@ -1,0 +1,55 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Middle/Document fonts/AdobeFnt23.lst
+FileLength:814
+FileModTime:718312528
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Middle/Document fonts/AdobeFnt24.lst
+FileLength:1371
+FileModTime:762120447
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Middle/Document fonts/AdobeFnt25.lst
+FileLength:1529
+FileModTime:805140825
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/shape_transformations_check/fail_data/Auto Size Middle/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:712686018
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

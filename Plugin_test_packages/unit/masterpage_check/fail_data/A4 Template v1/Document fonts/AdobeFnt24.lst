@@ -1,0 +1,81 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/fail_data/A4 Template v1/Document fonts/AdobeFnt22.lst
+FileLength:1583
+FileModTime:638199127
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/fail_data/A4 Template v1/Document fonts/AdobeFnt24.lst
+FileLength:2098
+FileModTime:760455722
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/fail_data/A4 Template v1/Document fonts/AdobeFnt25.lst
+FileLength:2187
+FileModTime:805140763
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TheSansB3-Light
+FamilyName:TheSans
+StyleName:B3 Light
+MenuName:TheSans B3 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:TheSans B3 Light
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/fail_data/A4 Template v1/Document fonts/TheSansB_TT3_App.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:202984
+FileModTime:637777018
+NameArray:0,Mac,18,TheSans B3 Light
+NameArray:0,Mac,4,TheSans B3 Light
+NameArray:0,Win,1,TheSans B3 Light
+NameArray:0,Win,16,TheSans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TheSansB7-Bold
+FamilyName:TheSans
+StyleName:B7 Bold
+MenuName:TheSans B7 Bold
+StyleBits:0
+WeightClass:530
+WidthClass:5
+AngleClass:0
+FullName:TheSans B7 Bold
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Documents/Code/Scripts/Test-1gmjpg/Plugin_testing/unit/masterpage_check/fail_data/A4 Template v1/Document fonts/TheSansB_TT7_App.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:190788
+FileModTime:637777018
+NameArray:0,Mac,18,TheSans B7 Bold
+NameArray:0,Mac,4,TheSans B7 Bold
+NameArray:0,Win,1,TheSans B7 Bold
+NameArray:0,Win,16,TheSans
+%EndFont
+

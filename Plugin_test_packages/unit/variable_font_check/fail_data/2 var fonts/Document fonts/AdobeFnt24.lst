@@ -1,0 +1,120 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt23.lst
+FileLength:2520
+FileModTime:720554178
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/2 var fonts/Document fonts/AdobeFnt24.lst
+FileLength:3099
+FileModTime:764108959
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Montserrat SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/2 var fonts/Document fonts/Montserrat-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:260936
+FileModTime:567100001
+NameArray:0,Mac,4,Montserrat SemiBold
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+MenuName:Playfair Display
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Playfair Display Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/2 var fonts/Document fonts/PlayfairDisplay-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:210208
+FileModTime:567099998
+NameArray:0,Mac,4,Playfair Display Regular
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Italic
+FamilyName:Roboto Mono
+StyleName:Italic
+MenuName:Roboto Mono
+FamilyPrefix:RobotoMono
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Roboto Mono Italic
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/2 var fonts/Document fonts/RobotoMono-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:197012
+FileModTime:716423238
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:RobotoMono-Regular
+FamilyName:Roboto Mono
+StyleName:Regular
+MenuName:Roboto Mono
+FamilyPrefix:RobotoMono
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Roboto Mono Regular
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/variable_font_check/fail_data/2 var fonts/Document fonts/RobotoMono-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:184172
+FileModTime:716423238
+NameArray:0,Win,1,Roboto Mono
+%EndFont
+

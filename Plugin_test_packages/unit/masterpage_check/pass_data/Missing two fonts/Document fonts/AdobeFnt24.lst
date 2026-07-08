@@ -1,0 +1,52 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/.DS_Store
+FileLength:6148
+FileModTime:718239396
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt23.lst
+FileLength:1925
+FileModTime:718146988
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/AdobeFnt24.lst
+FileLength:1648
+FileModTime:760309421
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FuturaEF-DemiBold
+FamilyName:FuturaEF DemiBold
+StyleName:Regular
+MenuName:FuturaEF DemiBold
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:FuturaEF-DemiBold
+WritingScript:Roman
+OutlineFileName:/Users/river.schenck/Library/Application Support/Adobe/UXP/PluginsStorage/IDSN/20/Developer/Test-81aexs/PluginData/unit/masterpage_check/pass_data/Missing two fonts/Document fonts/FuturaEF-DemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:23604
+FileModTime:663085356
+NameArray:0,Mac,4,FuturaEF-DemiBold
+NameArray:0,Win,1,FuturaEF DemiBold
+%EndFont
+

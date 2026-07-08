@@ -1,0 +1,41 @@
+{
+  "id": "com.partner.plugin",
+  "name": "Partner Plugin",
+  "version": "1.0.0",
+  "main": "index.html",
+  "manifestVersion": 5,
+  "requiredPermissions": {
+    "localFileSystem": "fullAccess"
+  },
+  "host": [
+    {
+      "app": "ID",
+      "minVersion": "20.5.2"
+    }
+  ],
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "myPanel",
+      "label": {
+        "default": "My Panel"
+      },
+      "minimumSize": {
+        "width": 320,
+        "height": 280
+      },
+      "maximumSize": {
+        "width": 2000,
+        "height": 2000
+      },
+      "preferredDockedSize": {
+        "width": 420,
+        "height": 620
+      },
+      "preferredFloatingSize": {
+        "width": 520,
+        "height": 760
+      }
+    }
+  ]
+}
