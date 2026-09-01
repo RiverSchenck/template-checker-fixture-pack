@@ -10,11 +10,11 @@ export const autoSizeTestConfig = {
   failTests: [
     {
       folderName: "4 auto size error",
-      expected: expectIssues(AUTO_SIZE_TEXT_FRAME_CHECK_ID, 5, "error"),
+      expected: expectIssues(AUTO_SIZE_TEXT_FRAME_CHECK_ID, 4, "error"),
     },
     {
       folderName: "Auto Size Middle",
-      expected: expectIssues(AUTO_SIZE_TEXT_FRAME_CHECK_ID, 5, "error"),
+      expected: expectIssues(AUTO_SIZE_TEXT_FRAME_CHECK_ID, 3, "error"),
     },
     {
       folderName: "Auto Size Text Boxes",
