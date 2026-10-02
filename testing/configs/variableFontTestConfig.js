@@ -14,15 +14,15 @@ export const variableFontTestConfig = {
     },
     {
       folderName: "3 variable fonts with multiple weights Folder",
-      expected: expectIssues(VARIABLE_FONT_CHECK_ID, 3, "error"),
+      expected: expectIssues(VARIABLE_FONT_CHECK_ID, 5, "error"),
     },
     {
       folderName: "4 var fonts Folder",
-      expected: expectIssues(VARIABLE_FONT_CHECK_ID, 4, "error"),
+      expected: expectIssues(VARIABLE_FONT_CHECK_ID, 5, "error"),
     },
     {
       folderName: "Variable Font Example",
-      expected: expectIssues(VARIABLE_FONT_CHECK_ID, 1, "error"),
+      expected: expectIssues(VARIABLE_FONT_CHECK_ID, 2, "error"),
     },
   ],
   passTests: [

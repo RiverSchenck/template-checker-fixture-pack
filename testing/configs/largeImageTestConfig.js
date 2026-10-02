@@ -10,19 +10,19 @@ export const largeImageTestConfig = {
   failTests: [
     {
       folderName: "2 large images 1 small with same name Folder",
-      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 3, "info"),
+      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 3, "warning"),
     },
     {
       folderName: "1023_SEMCO_OTHER_3984112_Overview_FS_TEMP_RES_PRINT",
-      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 1, "info"),
+      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 1, "warning"),
     },
     {
       folderName: "Carpeta TEMPLATE_1SLOGAN_OFFLINE_380260MM",
-      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 3, "info"),
+      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 3, "warning"),
     },
     {
       folderName: "Large image used",
-      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 1, "info"),
+      expected: expectIssues(LARGE_IMAGE_CHECK_ID, 1, "warning"),
     },
   ],
   passTests: [

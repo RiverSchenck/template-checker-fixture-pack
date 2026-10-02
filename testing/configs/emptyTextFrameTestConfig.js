@@ -15,7 +15,7 @@ export const emptyTextFrameTestConfig = {
       expected: expectIssues(
         EMPTY_TEXT_FRAME_CHECK_ID,
         1,
-        "info",
+        "warning",
       ),
     },
     {
@@ -23,7 +23,7 @@ export const emptyTextFrameTestConfig = {
       expected: expectIssues(
         EMPTY_TEXT_FRAME_CHECK_ID,
         2,
-        "info",
+        "warning",
       ),
     },
     {
@@ -31,7 +31,7 @@ export const emptyTextFrameTestConfig = {
       expected: expectIssues(
         EMPTY_TEXT_FRAME_CHECK_ID,
         4,
-        "info",
+        "warning",
       ),
     },
     {
@@ -39,7 +39,7 @@ export const emptyTextFrameTestConfig = {
       expected: expectIssues(
         EMPTY_TEXT_FRAME_CHECK_ID,
         3,
-        "info",
+        "warning",
       ),
     },
   ],

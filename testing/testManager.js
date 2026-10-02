@@ -127,6 +127,8 @@ export class TestManager {
         this.fsProvider = require("uxp").storage.localFileSystem;
         /** Log fixture-root hint at most once per TestManager instance. */
         this._fixtureRootHintLogged = false;
+        /** Log "no selected fixture folder" hint at most once per TestManager instance. */
+        this._fixtureRootSelectionHintLogged = false;
     }
 
     /**
@@ -397,6 +399,13 @@ export class TestManager {
             }
         } catch (err) {
             console.warn("Fixture tests: could not resolve saved fixture root token", err);
+        }
+
+        if (!roots.length && !this._fixtureRootSelectionHintLogged) {
+            this._fixtureRootSelectionHintLogged = true;
+            console.warn(
+                "Fixture tests: no fixture folder is currently selected. Choose “Choose fixture folder…” in the panel flyout and pick the parent folder that contains `unit/` before running fixture tests."
+            );
         }
 
         try {
