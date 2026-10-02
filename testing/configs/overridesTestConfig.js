@@ -18,7 +18,7 @@ export const overridesTestConfig = {
     },
     {
       folderName: "VOITH_7 overrides",
-      expected: expectIssues(PARAGRAPH_OVERRIDE_CHECK_ID, 7, "warning"),
+      expected: expectIssues(PARAGRAPH_OVERRIDE_CHECK_ID, 8, "warning"),
     },
     {
       folderName: "with overrides",
